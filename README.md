@@ -2,13 +2,11 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/laraveles/spanish.svg?style=flat-square)](https://packagist.org/packages/laraveles/spanish)
 [![Total Downloads](https://img.shields.io/packagist/dt/laraveles/spanish.svg?style=flat-square)](https://packagist.org/packages/laraveles/spanish)
 
-# Laravel Español
+# Laravel Español para Jetstream
 
-Paquete de traducciones en español para Laravel 5. Este paquete te agrega a tu proyecto los ficheros de traducciones en español que Laravel 5 trae por defecto.
+Paquete de traducciones en español para Laravel 8 con Jetstream. Este paquete te agrega a tu proyecto los ficheros de traducciones en español que Laravel 8 con Jetstream trae por defecto.
 
 ## Versiones
-
-Para Laravel >=5.8 utilizar la versión 1.2+, incluye la validación de contraseña hasta 8 caracteres. Para el resto de versiones utilizar 1.1+.
 
 Archivos por defecto incluidos en Laravel:
 
@@ -30,10 +28,10 @@ es/validation.php
 Puedes instalar este paquete mediante composer:
 
 ```bash
-composer require laraveles/spanish
+composer require amendozaaguiar/laraveles-spanish-for-jetstream
 ```
 
-En versiones anteriores a la 5.5 debes agregar el proveedor de servicios en tu fichero `config/app.php` (no es necesario en Laravel 5.5+ gracias al [sistema de autodiscovery](https://medium.com/@taylorotwell/package-auto-discovery-in-laravel-5-5-ea9e3ab20518)):
+No es necesario agregar el proveedor de servicios en tu fichero `config/app.php` en Laravel 5.5+ gracias al [sistema de autodiscovery](https://medium.com/@taylorotwell/package-auto-discovery-in-laravel-5-5-ea9e3ab20518):
 
 ```php
 'providers' => [

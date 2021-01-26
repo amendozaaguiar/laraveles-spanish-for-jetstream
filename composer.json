@@ -1,14 +1,18 @@
 {
-    "name": "laraveles/spanish",
-    "description": "Conjunto de traducciones en español para Laravel",
+    "name": "amendozaaguiar/laraveles-spanish-for-jetstream",
+    "description": "Conjunto de traducciones en español para Laravel con Jetstream",
     "keywords": [
         "laravel",
         "spanish",
         "traduccion",
-        "laraveles"
+        "laraveles",
+        "jetstream"
     ],
-    "homepage": "https://github.com/Laraveles/spanish",
+    "homepage": "https://github.com/amendozaaguiar/laraveles-spanish-for-jetstream",
     "authors": [
+        {
+            "name": "Anderson Mendoza"
+        },
         {
             "name": "Israel Ortuño",
             "email": "ai.ortuno@gmail.com"
