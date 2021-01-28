@@ -31,6 +31,7 @@
     "click here to request another": "pulsa aquí para que te enviemos otro",
     "All rights reserved.":  "Todos los derechos reservados.",
 
+    
     "Email": "Correo electrónico",
     "Remember me": "Recuérdame",
     "Forgot your password?": "¿Olvidaste tu contraseña?",
@@ -77,5 +78,18 @@
     "Code": "Código",
     "Recovery Code": "Código de recuperación",
     "Use a recovery code": "Usa un código de recuperación",
-    "Use an authentication code": "Usa un código de autenticación"
+    "Use an authentication code": "Usa un código de autenticación",
+    "Browser Sessions": "Sesiones del navegador",
+    "Manage and logout your active sessions on other browsers and devices.": "Administre y cierre sus sesiones activas en otros navegadores y dispositivos.",
+    "If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.": "Si es necesario, puede cerrar la sesión de todas las demás sesiones de su navegador en todos sus dispositivos. Algunas de sus sesiones recientes se enumeran a continuación; sin embargo, esta lista puede no ser exhaustiva. Si cree que su cuenta se ha visto comprometida, también debe actualizar su contraseña.",
+    "This device": "Este dispositivo",
+    "Last active": "Última activa",
+    "Logout Other Browser Sessions": "Cerrar las otras sesiones",
+    "Done.": "Hecho",
+    "Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.": "Ingrese su contraseña para confirmar que desea cerrar la sesión en otros navegadores y dispositivos.",
+    "Delete Account": "Borrar cuenta",
+    "Permanently delete your account.": "Elimina permanentemente tu cuenta.",
+    "Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.": "Una vez que se elimine su cuenta, todos sus recursos y datos se eliminarán permanentemente. Antes de eliminar su cuenta, descargue cualquier dato o información que desee conservar.",
+    "Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.": "¿Estás seguro de que deseas eliminar tu cuenta? Una vez que se elimine su cuenta, todos sus recursos y datos se eliminarán permanentemente. Ingrese su contraseña para confirmar que desea eliminar permanentemente su cuenta."
+
 }
